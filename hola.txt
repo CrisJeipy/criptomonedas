@@ -5,3 +5,5 @@ Tengo 30 años de edad.
 Estudio Web Development en PLatzi.
 
 Quiero ser programador.
+
+Se esfuerza por mejorar.
