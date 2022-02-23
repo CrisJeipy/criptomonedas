@@ -3,3 +3,5 @@ Hola, mi nombre es cristian Cordero.
 Tengo 30 años de edad.
 
 Estudio Web Development en PLatzi.
+
+Quiero ser programador.
