@@ -10,10 +10,18 @@ body {
 #container {
     padding: 1em;
     width: 70%;
-    text align: left;
+    text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
     
+}
+
+.titulo {
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    border-color: black;
+    border-radius: 1px;
 }
 
 #container h1 {
